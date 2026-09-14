@@ -1,0 +1,10 @@
+{
+  "description": "This web application offers three customizable interface designs for projects, enabling users to enhance their workflow and improve user experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
